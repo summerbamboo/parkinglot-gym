@@ -1,0 +1,3 @@
+https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+https://github.com/prasad-kumkar/openai-taxi-v3
+https://medium.com/@apoorva.jindal.99/self-driving-car-in-gym-environment-using-reinforcement-learning-4b6a6ab81bd3

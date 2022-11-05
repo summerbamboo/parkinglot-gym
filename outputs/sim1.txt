@@ -1,0 +1,10 @@
+True 131
+True 28
+True 36
+True 48
+True 12
+True 100
+True 46
+True 112
+True 98
+True 101

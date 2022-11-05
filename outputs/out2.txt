@@ -1,0 +1,61 @@
+Verifying output for seed = 13
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 1 seed = 13 :	 python run_simulator.py --task T2 --random_seed 13 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 69
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 2 seed = 69 :	 python run_simulator.py --task T2 --random_seed 69 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 420
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 3 seed = 420 :	 python run_simulator.py --task T2 --random_seed 420 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 666
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 4 seed = 666 :	 python run_simulator.py --task T2 --random_seed 666 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 42
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 5 seed = 42 :	 python run_simulator.py --task T2 --random_seed 42 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 0
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 6 seed = 0 :	 python run_simulator.py --task T2 --random_seed 0 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 2012
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 7 seed = 2012 :	 python run_simulator.py --task T2 --random_seed 2012 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 7
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 8 seed = 7 :	 python run_simulator.py --task T2 --random_seed 7 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 747
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 9 seed = 747 :	 python run_simulator.py --task T2 --random_seed 747 --frames_per_sec 150
+ALL CHECKS PASSED!
+Verifying output for seed = 8
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 10 seed = 8 :	 python run_simulator.py --task T2 --random_seed 8 --frames_per_sec 150
+ALL CHECKS PASSED!
+Marks awarded: 2.5/2.5
